@@ -18,6 +18,7 @@ int main()
     swap(a, b);
     return 0;
 }
+//kruti
 
 // OUTPUT
 /* Enter the value of a and b
